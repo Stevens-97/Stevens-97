@@ -1,8 +1,6 @@
-### Hi there 👋
+### Welcome to my personal github page!
 
-Welcome to my personal github page!
-
-You can either navigate through the repos on the profile page or click on the link to my portfolio site. My portfolio site also has links to my socials. 
+You can either navigate through the repos on the profile page or but I recommend using my portfolio site, see the link below. My portfolio site also has links to my socials. 
 
 > [Site link](https://esportfoliosite.netlify.app/)
 

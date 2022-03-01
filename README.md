@@ -1,9 +1,10 @@
 ### Welcome to my personal github page!
 
-You can either navigate through the repos on the profile page or but I recommend using my portfolio site, see the link below. My portfolio site also has links to my socials. 
+You can either navigate through the repos on the profile page or but I recommend using my portfolio site some repos are still being made public.
 
 > [Site link](https://esportfoliosite.netlify.app/)
 
+My portfolio site also has links to my socials. 
 
 <!--
 **Stevens-97/Stevens-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

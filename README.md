@@ -1,24 +1,25 @@
 ### Welcome to my personal github page!
 
-You can either navigate through the repos on the profile page or but I recommend using my portfolio site some repos are still being made public.
+- 🔭 I’m currently working on tje capstone project of my School of Code experience.
+- 🌱 I’m currently learning JavaScript (with frame works), HTML and CSS.
 
-> [Site link](https://esportfoliosite.netlify.app/)
+# Intro
 
-My portfolio site also has links to my socials. 
+You can either navigate through the repos on the profile page or but I recommend using my portfolio site! However, some repos are still being made public.
 
-<!--
-**Stevens-97/Stevens-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [portfolio link](https://esportfoliosite.netlify.app/)
 
-Here are some ideas to get you started:
+## Contact me here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [Linkedin link](https://www.linkedin.com/in/elliott-s-115a17219/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
+
+
+
+## Github stats
+
+![Elliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevens-97&theme=slateorange&count_private=true)  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevens-97&theme=slateorange&layout=compact)](https://github.com/stevens-97/github-readme-stats)
+
+

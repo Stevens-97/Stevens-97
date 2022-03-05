@@ -1,6 +1,6 @@
 ### Welcome to my personal github page!
 
-- 🔭 I’m currently working on tje capstone project of my School of Code experience.
+- 🔭 I’m currently a software engineer on the School of Code bootcamp working within a team to deliver a capstone project.
 - 🌱 I’m currently learning JavaScript (with frame works), HTML and CSS.
 
 # Intro

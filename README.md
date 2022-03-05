@@ -20,6 +20,6 @@ You can either navigate through the repos on the profile page or but I recommend
 
 ## Github stats
 
-![Elliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevens-97&theme=slateorange&count_private=true)  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevens-97&theme=slateorange&layout=compact)](https://github.com/stevens-97/github-readme-stats)
+![Elliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevens-97&theme=slateorange&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevens-97&theme=slateorange&layout=compact)](https://github.com/stevens-97/github-readme-stats)
 
 

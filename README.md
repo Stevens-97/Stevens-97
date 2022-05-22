@@ -1,11 +1,11 @@
 ### Welcome to my personal github page!
 
-- 🔭 I’m a recent graduate from the School of Code looking for my first software engineering post.
-- 🌱 I’m currently learning JavaScript (with frame works), HTML and CSS.
+- 🔭 I’m a recent graduate from the School of Code starting my first software engineering post.
+- 🌱 I’m currently learning C# and AWS.
 
 # Intro
 
-You can either navigate through the repos on the profile page or but I recommend using my portfolio site! However, some repos are still being made public.
+You can either navigate through the repos on the profile page or but I recommend using my portfolio site! However, some repos are still being made public and updated.
 
 > [portfolio link](https://esportfoliosite.netlify.app/)
 

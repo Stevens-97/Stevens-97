@@ -1,13 +1,11 @@
 ### Welcome to my personal github page!
 
-- 🔭 I’m a recent graduate from the School of Code starting my first software engineering post.
-- 🌱 I’m currently learning C# and AWS.
+- 🔭 I’m a Software engineer currently working as a front-end developer.
+- 🌱 I’m currently learning C#!
 
 # Intro
 
 You can either navigate through the repos on the profile page or but I recommend using my portfolio site! However, some repos are still being made public and updated.
-
-> [portfolio link](https://esportfoliosite.netlify.app/)
 
 ## Contact me here
 

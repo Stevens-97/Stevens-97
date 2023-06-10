@@ -3,10 +3,6 @@
 - 🔭 I’m a Software engineer currently working as a front-end developer.
 - 🌱 I’m currently learning C#!
 
-# Intro
-
-You can either navigate through the repos on the profile page or but I recommend using my portfolio site! However, some repos are still being made public and updated.
-
 ## Contact me here
 
 > [Linkedin link](https://www.linkedin.com/in/elliott-s-115a17219/)

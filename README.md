@@ -5,10 +5,5 @@
 
 ## Contact me here
 
-> [Linkedin link](https://www.linkedin.com/in/elliott-s-115a17219/)
-
-## Language distribution
-
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevens-97&theme=slateorange&layout=compact)](https://github.com/stevens-97/github-readme-stats)
-
+> [Linkedin](https://www.linkedin.com/in/elliott-s-115a17219/)
 

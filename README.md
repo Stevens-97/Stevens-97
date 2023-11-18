@@ -45,9 +45,6 @@
 
 ### Coming soon
 
-![5355692_code_coding_development_programming_web_icon])
-
-
 <link href="https://www.linkedin.com/in/elliott-s-115a17219/">
   <img src="https://github.com/Stevens-97/Stevens-97/assets/86322472/8ece6cf2-9afe-418b-889f-405f16325e8d" alt="Personal website" width="45" height="45"/>
 </link>

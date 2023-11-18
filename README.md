@@ -39,9 +39,9 @@
 
 <h2> 📱 &nbsp;Reach out to me via these links</h3>
 
-<link href="https://www.linkedin.com/in/elliott-s-115a17219/">
+<a href="https://www.linkedin.com/in/elliottstevens97/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="45" height="45"/>
-</link>
+</a>
 
 ### Coming soon
 

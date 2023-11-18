@@ -50,5 +50,7 @@
   <h3>Github stats</h3>
   </section>
 
-  [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevens-97)](https://github.com/anuraghazra/github-readme-stats)]
+  [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevens-97)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-97&layout=compact)](https://github.com/yushi1007)
 

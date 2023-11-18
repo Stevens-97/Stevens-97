@@ -1,13 +1,60 @@
 ### Welcome to my personal github page!
 
-- 🔭 I’m a Software engineer currently working as a front-end developer.
-- 🌱 I’m currently learning C#!
+- 🔭 I’m a Software engineer currently working as a Front End Developer. You can find out a little bit about me below, or reach out to me to chat on my socials!
 
-## Contact me here
+---
 
-> [Linkedin](https://www.linkedin.com/in/elliott-s-115a17219/)
+<h2> 📚 &nbsp;About me</h3>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+```
+{
+  Name: "Elliott Stevens",
+  Education: [
+    "Bootcamper at School of code",
+    "Postgraduate Certificate in Education (with QTS)",
+    "MChem (Master in Chemistry) (2:1 Hons)"
+  ]
+  ProfessionalExperience: [
+    {
+      Title: "Front End developer"
+      Company: "Ampersand",
+      StartDate: "Mar 2023"
+      EndDate: "null"
+    },
+    {
+      Title: "Junior Front End developer"
+      Company: "Ampersand",
+      StartDate: "Sep 2022"
+      EndDate: "Mar 2023"
+    },
+  ],
+  CurrentlyLearning: [
+    "CSharp",
+    "dotnet",
+    "AWS"
+  ]
+}
+```
+---
+
+<h2> 📱 &nbsp;Reach out to me via these links</h3>
+
+<link href="https://www.linkedin.com/in/elliott-s-115a17219/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="45" height="45"/>
+</link>
+
+### Coming soon
+
+![5355692_code_coding_development_programming_web_icon])
+
+
+<link href="https://www.linkedin.com/in/elliott-s-115a17219/">
+  <img src="https://github.com/Stevens-97/Stevens-97/assets/86322472/8ece6cf2-9afe-418b-889f-405f16325e8d" alt="Personal website" width="45" height="45"/>
+</link>
+
+---
+
+<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p>Languages:</p>
 <section>
 <p align="left">
@@ -50,7 +97,9 @@
   <h3>Github stats</h3>
   </section>
 
+  
   [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stevens-97)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens-97&layout=compact)](https://github.com/yushi1007)
+
 
